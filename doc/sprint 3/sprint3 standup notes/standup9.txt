@@ -1,0 +1,60 @@
+Date and Time: November 17, 2019 at 11 pm
+
+Participants: 
+Kemar Harris
+Sakina Gadriwala (Scrum Master)
+Saad Shah
+Jaya Thirugnanasampanthan
+Seemin Syed
+Dineshan Pathmanathan
+
+Notes:
+Kemar:
+What did I do yesterday?
+The button and view for previous itineraries.
+What will I do today?
+Write the services for the itinerary to use instead of using
+mock data to test.
+What problems are preventing me from making progress?
+The apis that the BE are implementing don't match the responses
+needed for FE. The main issue is dealing with that.
+
+Sakina:
+What did I do yesterday?
+Continued working on the Searching and Changing Event APIs.
+What did I do today?
+Nearing completion of said APIs, and assisting front end developers with difficulty.
+What problems are preventing me from making progress?
+None so far.
+
+Saad:
+What did I do yesterday?
+Finished up the change event feature
+What will I do today?
+begin the Search for an event feature
+What problems are preventing me from making progress?
+Still not experienced with Flutter so progress is slow
+
+Jaya:
+What did I do yesterday?
+Looked into how to set up the APIs I'm assigned to. Began writing the APIs (PLANN-100).
+What will I do today?
+Continue to write APIs.
+What problems are preventing me from making progress?
+Differences in requirements between FE and BE for the fields make it difficult to decide what is necessary and not.
+
+Dineshan:
+What did I do yesterday?
+Worked on the event details front end page.
+What did I do today?
+Continuing work on the event details page and read up on Google Maps API.
+What problems are preventing me from making progress?
+Google Maps API is quite cumbersome to work with, might take some more time.
+
+Seemin:
+What did I do yesterday?
+Brainstorm and finalize json responses and object fields to be used for Events and Itineraries.
+What will I do today?
+Modify Itinerary and Event objects for newly requested fields.
+What problems are preventing me from making progress?
+None.

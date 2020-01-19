@@ -1,0 +1,58 @@
+Date and Time: November 4, 2019 at 10 am
+
+Participants: 
+Kemar Harris
+Sakina Gadriwala (Scrum Master)
+Saad Shah
+Jaya Thirugnanasampanthan
+Seemin Syed
+Dineshan Pathmanathan
+
+Notes:
+Kemar:
+What did I do yesterday?
+Created a DAO object through which the APIs can retrieve and update data.
+What will I do today?
+Review others' work.
+What problems are preventing me from making progress?
+N/A
+
+Sakina:
+What did I do yesterday?
+Worked on attractions API and consumed its API.
+What will I do today?
+Work on budget and number of participants GUI. Merge all GUI pieces into one branch, make sure the navigation is proper, and look mildly aesthetic.
+What problems are preventing me from making progress?
+Need to create Flutter form so we can integrate all Flutter components. 
+
+Saad:
+What did I do yesterday?
+Worked on attractions, itinerary, and transportation APIs.
+What will I do today?
+Wrap them up and push to branches.
+What problems are preventing me from making progress?
+N/A
+
+Jaya:
+What did I do yesterday?
+Worked on transportation GUI & consuming the transportation API.
+What will I do today?
+Continue working on transportation GUI & consuming the transportation API. Aim to push to remote branch by tonight.
+What problems are preventing me from making progress?
+Struggling with consuming transportation API and still trying to figure out how to force the user to choose at least one transportation method.
+
+Seemin:
+What did I do yesterday?
+Worked on the dat and time GUI and added validation.
+What will I do today?
+Work on location GUI and consume its API.
+What problems are preventing me from making progress?
+Had too many tasks, so delegated work to Sakina (budget).
+
+Dineshan:
+What did I do yesterday?
+Finished user registration. 
+What will I do today?
+Finish user deactivation. Review others' work.
+What problems are preventing me from making progress?
+Not everyone from BE team has pushed their branches to remote.

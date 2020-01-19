@@ -1,0 +1,58 @@
+Date and Time: October 29, 2019 at 5 pm
+
+Participants: 
+Kemar Harris
+Sakina Gadriwala (Scrum Master)
+Saad Shah
+Jaya Thirugnanasampanthan
+Seemin Syed
+Dineshan Pathmanathan
+
+Notes:
+Kemar:
+What did I do yesterday?
+I tried to find a way to access the DB. 
+What will I do today?
+I will continue this research. 
+What problems are preventing me from making progress?
+I haven't completed C43, so this is new to me!
+
+Sakina:
+What did I do yesterday?
+Researched how to set up Flutter project on Android Studio.
+What will I do today?
+Set up frontend project on Github. 
+What problems are preventing me from making progress?
+I still don't know how to set up the Flutter project on Android Studio, and so I can't teach Jaya and Seemin.
+
+Saad:
+What did I do yesterday?
+N/A
+What will I do today?
+N/A
+What problems are preventing me from making progress?
+Kemar is struggling with DB work, so I can't write the code to hook up to the DB.
+
+Jaya:
+What did I do yesterday?
+Played around with Android Studio since I'm new to it.
+What will I do today?
+Try to figure out how to set up Flutter project on Android Studio. 
+What problems are preventing me from making progress?
+Sakina can't create the new project on the master, so we can't branch off and start our work. 
+
+Seemin:
+What did I do yesterday?
+I tried installing the Flutter project, but ran into issues.
+What will I do today?
+Try to figure out how to set up Flutter project on Android Studio. 
+What problems are preventing me from making progress?
+Sakina can't create the new Flutter project (to push on master), so we can't branch off and start our work.
+
+Dineshan:
+What did I do yesterday?
+N/A
+What will I do today?
+N/A
+What problems are preventing me from making progress?
+Kemar hasn't set up the DB, so I need to wait before coding.

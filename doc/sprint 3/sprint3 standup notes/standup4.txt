@@ -1,0 +1,60 @@
+Date and Time: November 9, 2019 at 5 pm
+
+Participants: 
+Kemar Harris
+Sakina Gadriwala (Scrum Master)
+Saad Shah
+Jaya Thirugnanasampanthan
+Seemin Syed
+Dineshan Pathmanathan
+
+Notes:
+Kemar:
+What did I do yesterday?
+Research flutter.
+What will I do today?
+Display a mock itinerary and its details on a blank page.
+It just has to be text so I can understand the basics and get
+some concrete practice with flutter.
+What problems are preventing me from making progress?
+Nothing.
+
+Sakina:
+What did I do yesterday?
+Implement value preservation when switching between pages in the front end.
+What did I do today?
+Begin working on validating for inputs in the front end.
+What problems are preventing me from making progress?
+None so far.
+
+Saad:
+What did I do yesterday?
+Refactor my code from Sprint 2 and go through the front end
+What will I do today?
+Continue to go through the front end and research Flutter
+What problems are preventing me from making progress?
+None
+
+Jaya:
+What did I do yesterday?
+Tested backend work to identify bugs.
+What will I do today?
+Test backend work to identify bugs.
+What problems are preventing me from making progress?
+Lack of documentation makes it hard to understand the code.
+
+Dineshan:
+What did I do yesterday?
+Experimented with Flutter/Dart with readings and tutorials.
+What did I do today?
+Understand the current front end code and begin working.
+What problems are preventing me from making progress?
+Lack of understanding of Flutter. 
+
+Seemin:
+What did I do yesterday?
+Research which APIs to use with which feature.
+What will I do today?
+Design and create Event objects for Back End.
+What problems are preventing me from making progress?
+Lack of information about what Front End and BE could use.

@@ -1,0 +1,62 @@
+Date and Time: November 10, 2019 at 10 am
+
+Participants: 
+Kemar Harris
+Sakina Gadriwala (Scrum Master)
+Saad Shah
+Jaya Thirugnanasampanthan
+Seemin Syed
+Dineshan Pathmanathan
+
+Notes:
+Kemar:
+What did I do yesterday?
+Display a mock itinerary.
+What will I do today?
+Show a type of list version of the itinerary. This means
+showing the events of the itinerary in list form so
+that the users can view an itinerary's events.
+This also means that I'll be looking up how to
+put things in lists in flutter.
+What problems are preventing me from making progress?
+I don't how to put things in a list view in flutter.
+
+Sakina:
+What did I do yesterday?
+Worked on validation on front end fields.
+What did I do today?
+Work on preserving the validation of front end values between pages.
+What problems are preventing me from making progress?
+None so far.
+
+Saad:
+What did I do yesterday?
+Went through the front end and researched Flutter
+What will I do today?
+Continue to learn Flutter
+What problems are preventing me from making progress?
+None
+
+Jaya:
+What did I do yesterday?
+Tested backend work to identify bugs.
+What will I do today?
+Test backend work to identify bugs.
+What problems are preventing me from making progress?
+Lack of documentation makes it hard to understand the code.
+
+Dineshan:
+What did I do yesterday?
+Continued reading up on Flutter/Dart.
+What did I do today?
+Discussed with Tianze on how to connect to the server hosting our database.
+What problems are preventing me from making progress?
+In order to use the server, the group must wait for all the public IPs to be added for access.
+
+Seemin:
+What did I do yesterday?
+Design and create Event objects for Back End.
+What will I do today?
+Find and use the foursquare API to get a list of events according to certain criteria.
+What problems are preventing me from making progress?
+Lack of information about what can and cannot be used.

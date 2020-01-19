@@ -1,0 +1,61 @@
+Date and Time: November 16, 2019 at 3 pm
+
+Participants: 
+Kemar Harris
+Sakina Gadriwala (Scrum Master)
+Saad Shah
+Jaya Thirugnanasampanthan
+Seemin Syed
+Dineshan Pathmanathan
+
+Notes:
+Kemar:
+What did I do yesterday?
+Change main page for the app.
+What will I do today?
+Do the button and view for viewing previous itineraries.
+What problems are preventing me from making progress?
+I learned to re-use the widget for the interary,
+so the main portion that's going to be difficult is
+showing all the itineraries without loading all the itineraries
+at once.
+
+Sakina:
+What did I do yesterday?
+Began work on the Search and Change Event APIs in the back end.
+What did I do today?
+Continuing work on these APIs.
+What problems are preventing me from making progress?
+Need clarification on what the front end will be sending in for this API.
+
+Saad:
+What did I do yesterday?
+Continue with working on the change event feature
+What will I do today?
+Try to Finish the change event feature and begin the Search feature
+What problems are preventing me from making progress?
+Still not experienced with Flutter so progress is slow
+
+Jaya:
+What did I do yesterday?
+Wrote documentation for FE stuff.
+What will I do today?
+Look into how to set up the APIs I'm assigned to. Begin writing the APIs.
+What problems are preventing me from making progress?
+Differences in requirements between FE and BE for the fields make it difficult to decide what is necessary and not.
+
+Dineshan:
+What did I do yesterday?
+Began working on the front end for the event details page.
+What did I do today?
+Continued work on the front end, and looking to implement a map view for the detail page.
+What problems are preventing me from making progress?
+It is difficult trying to choose a map API and learn its' semantics.
+
+Seemin:
+What did I do yesterday?
+Create a list of events for itinerary using two API calls to get all the details.
+What will I do today?
+Brainstorm and finalize json responses and object fields to be used for Events and Itineraries.
+What problems are preventing me from making progress?
+Differences in requirements between FE and BE for the fields make it difficult to decide what is necessary and not.

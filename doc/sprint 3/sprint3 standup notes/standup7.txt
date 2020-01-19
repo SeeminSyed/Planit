@@ -1,0 +1,63 @@
+Date and Time: October 15, 2019 at 5 pm
+
+Participants: 
+Kemar Harris
+Sakina Gadriwala (Scrum Master)
+Saad Shah
+Jaya Thirugnanasampanthan
+Seemin Syed
+Dineshan Pathmanathan
+
+Notes:
+Kemar:
+What did I do yesterday?
+Save an itinerary and get it to display on the main page.
+What will I do today?
+Change the main page to show a prompt to create a new itinerary
+if the user doesn't have any. I also plan to make a button for
+creating a new itinerary. This requies redoing the main file for
+the front end page.
+What problems are preventing me from making progress?
+Nothing. This page is pretty basic so it isn't hard to create.
+
+
+Sakina:
+What did I do yesterday?
+Inspecting back end code for further testing and bug fixes.
+What did I do today?
+Begin working on the assigned APIs responsible for certain user stories (PLANN-106, PLANN-98).
+What problems are preventing me from making progress?
+It will take some time to adjust to backend code structure.
+
+Saad:
+What did I do yesterday?
+Began work on the change event feature
+What will I do today?
+Continue with working on th change event feature
+What problems are preventing me from making progress?
+Still not experienced with Flutter so progress is slow
+
+
+Jaya:
+What did I do yesterday?
+Wrote documentation for others who will work on FE this sprint (PLANN-92).
+What will I do today?
+Continue writing documentation for others who will work on FE this sprint (PLANN-92).
+What problems are preventing me from making progress?
+I'm still struggling to understand Flutter, so I will need to review documentation and get help from others to accurately write documentation.
+
+Dineshan:
+What did I do yesterday? 
+Start working on front-end designated tasks.
+What did I do today?
+Progress further with the completion of the front end for event details.
+What problems are preventing me from making progress?
+Shaky understanding of Flutter's objects.
+
+Seemin:
+What did I do yesterday?
+Decide if we should store events in the database or pull directly from API, and the relative pros and cons of each.
+What will I do today?
+Create a list of events from the foursquare API for the itinerary.
+What problems are preventing me from making progress?
+Lack of available parameters in public APIs to do exactly what we want.

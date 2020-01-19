@@ -1,0 +1,61 @@
+Date and Time: November 8, 2019 at 10 am
+
+Participants: 
+Kemar Harris
+Sakina Gadriwala (Scrum Master)
+Saad Shah
+Jaya Thirugnanasampanthan
+Seemin Syed
+Dineshan Pathmanathan
+
+Notes:
+Kemar:
+What did I do yesterday?
+Get Flutter and Dart set up.
+What will I do today?
+Research flutter.
+The main goal is to understand what working with flutter entails
+so that I don't struggle with it in the future. I have previous
+experience with GUI programming, so it shouldn't be too difficult.
+What problems are preventing me from making progress?
+Lack of understand of flutter.
+
+Sakina:
+What did I do yesterday?
+Nearing completion of preserving values between pages for the front end.
+What did I do today?
+Finishing up this task in order to move on.
+What problems are preventing me from making progress?
+None so far.
+
+Saad:
+What did I do yesterday?
+Research Flutter
+What will I do today?
+Refactor my code from Sprint 2 and go through the front end
+What problems are preventing me from making progress?
+None.
+
+Jaya:
+What did I do yesterday: 
+Research PostgreSQL.
+What will I do today? 
+Test backend work to identify bugs.
+What problems are preventing me from making progress?
+N/A
+
+Dineshan:
+What did I do yesterday?
+Nearly finishing refactor of the sprint 2 backend code.
+What did I do today?
+Finished up refactoring and reading on Flutter/Dart.
+What problems are preventing me from making progress?
+None so far.
+
+Seemin:
+What did I do yesterday?
+Research foursquare venue apis.
+What will I do today?
+Research which APIs to use with which feature.
+What problems are preventing me from making progress?
+Lsck of knowledge about the foursquare APIs.

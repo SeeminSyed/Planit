@@ -1,0 +1,59 @@
+Date and Time: November 7, 2019 at 6 pm
+
+Participants: 
+Kemar Harris
+Sakina Gadriwala (Scrum Master)
+Saad Shah
+Jaya Thirugnanasampanthan
+Seemin Syed
+Dineshan Pathmanathan
+
+Notes:
+Kemar:
+What did I do yesterday?
+Comment code written in the previous sprint.
+What will I do today?
+Get Flutter and Dart set up.
+This means being able to use the app on the master branch from the previous sprint.
+What problems are preventing me from making progress?
+Nothing.
+
+Sakina:
+What did I do yesterday?
+Begin working on preserving values between pages.
+What did I do today?
+Continue on researching and implementing the preservation.
+What problems are preventing me from making progress?
+None so far.
+
+Saad:
+What did I do yesterday?
+Began researching Flutter
+What will I do today?
+Continue researching Flutter.
+What problems are preventing me from making progress?
+Lack of experience with Flutter.
+
+Jaya:
+What did I do yesterday?
+Research PostgreSQL.
+What will I do today?
+Research PostgreSQL.
+What problems are preventing me from making progress?
+Lack of experience with PostgreSQL.
+
+Seemin:
+What did I do yesterday?
+Research how to get event details.
+What will I do today?
+Research foursquare venue apis.
+What problems are preventing me from making progress?
+Lack of knowledge about APIs.
+
+Dineshan:
+What did I do yesterday?
+Started the refacotring process for the back end code.
+What did I do today?
+Continue refactoring, then read up on Flutter/Dart.
+What problems are preventing me from making progress?
+None so far.

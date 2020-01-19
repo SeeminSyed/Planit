@@ -1,0 +1,8 @@
+{
+    "countryValidationUrl" : "http://geodb-free-service.wirefreethought.com/v1/geo/countries",
+    "cityValidationUrl" : "http://geodb-free-service.wirefreethought.com/v1/geo/cities",
+    "PORT" : 8080,
+	"databaseUrl" : "jdbc:postgresql://mathlab.utsc.utoronto.ca/c01f19g1",
+	"databaseUserName" : "c01f19g1",
+	"databasePassword" : "c01f19g1"
+}

@@ -1,0 +1,60 @@
+Date and Time: October 23, 2019 at 6 pm
+
+Participants: 
+Kemar Harris
+Sakina Gadriwala (Scrum Master)
+Saad Shah
+Jaya Thirugnanasampanthan
+Seemin Syed
+Dineshan Pathmanathan
+
+Notes:
+Kemar:
+What did I do yesterday?
+Research into what DB is best to use for our project (PLANN-60)
+What will I do today?
+Continue researching into DB to use for app.
+What problems are preventing me from making progress?
+Don't know how to let users download the app on their devices and access DB.
+Therefore, I can't finalize the DB and create tables.
+
+Sakina:
+What did I do yesterday?
+Research into Flutter widgets to use for attractions & number of participants GUI (PLANN-79, PLANN-81)
+What will I do today?
+Continue researching the Flutter widgets and how to set up the project on Android Studio so that I can teach Jaya and Seemin.
+What problems are preventing me from making progress?
+Can't implement right away since we don't know how the validation should work. 
+Can we use the widgets to block certain inputs (as part of validation)?
+
+Saad:
+What did I do yesterday?
+Review REST for the API work (PLANN-63, PLANN-64, PLANN-67)
+What will I do today?
+N/A
+What problems are preventing me from making progress?
+Kemar is struggling with DB work, so I can't write the code to hook up to the DB.
+
+Jaya:
+What did I do yesterday?
+Research into Flutter widgets for transportation and distance GUI (PLANN-80, PLANN-81)
+What will I do today?
+I know the widgets I want to use for the GUI. Will look into how to implement them.
+What problems are preventing me from making progress?
+No one knows Flutter, so I will struggle with learning it. This means that it will take me a while before I can commit my work. 
+
+Seemin:
+What did I do yesterday?
+Research into Flutter widgets for location, budget, and date-time GUI (PLANN-PLANN-77, PLANN-PLANN-78)
+What will I do today?
+Finalize the widgets for location, budget, and date-time GUI (PLANN-PLANN-77, PLANN-PLANN-78).
+What problems are preventing me from making progress?
+Learning Flutter is a pain. Sakina has shared resources to learn Flutter. Also, I'm having issues with Android Studio and installing Flutter.
+
+Dineshan:
+What did I do yesterday?
+Review REST for the API work (PLANN-69)
+What will I do today?
+N/A
+What problems are preventing me from making progress?
+Kemar hasn't set up the DB, so I need to wait before coding.

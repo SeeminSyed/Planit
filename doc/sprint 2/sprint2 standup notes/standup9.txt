@@ -1,0 +1,58 @@
+Date and Time: November 3, 2019 at 11 pm
+
+Participants: 
+Kemar Harris
+Sakina Gadriwala (Scrum Master)
+Saad Shah
+Jaya Thirugnanasampanthan
+Seemin Syed
+Dineshan Pathmanathan
+
+Notes:
+Kemar:
+What did I do yesterday?
+Worked on location validation, which has been pushed to remove branch. Will need someone to review work and merge to master.
+What will I do today?
+Work on database integration... so set up server and test hitting endpoints and connecting. Set up architecture. 
+What problems are preventing me from making progress?
+Apparently, we can't access the DB from home, so we will need to talk with Tianze about this.
+
+Sakina:
+What did I do yesterday?
+Worked on attractions GUI and consuming the API.
+What will I do today?
+Continue to work on attractions GUI and consuming the API.
+What problems are preventing me from making progress?
+It takes time and I have to juggle other courses.
+
+Saad:
+What did I do yesterday?
+Worked on the attractions API, transportation API, and configure itinerary endpoint stuff.
+What will I do today?
+Continue working on the attractions API, transportation API, and configure itinerary endpoint stuff. Haven't committed since I am facing minor issues, but I'm almost done addressing them.
+What problems are preventing me from making progress?
+N/A
+
+Jaya:
+What did I do yesterday?
+Worked on distance GUI. Work has been pushed to remote branch. Will need someone to review work and merge to master.
+What will I do today?
+Work on transportation GUI and consuming the transportation API.
+What problems are preventing me from making progress?
+I'm struggling with consuming API and I don't know how to force user to choose at least one transportation method.
+
+Seemin:
+What did I do yesterday?
+Worked on date and time GUI.
+What will I do today?
+Test and push date and time GUI work to remote branch. Work on other GUI stuff.
+What problems are preventing me from making progress?
+N/A
+
+Dineshan:
+What did I do yesterday?
+Worked on user registration and ratings endpoint stuff. 
+What will I do today?
+Test user registration and ratings endpoint stuff before pushing to remote branches. Will start user deactivation.
+What problems are preventing me from making progress?
+Have Git issues so I can't push my work to my branch, but Kemar is helping me out with this.

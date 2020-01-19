@@ -1,0 +1,63 @@
+Date and Time: November 11, 2019 at 12 pm
+
+Participants: 
+Kemar Harris
+Sakina Gadriwala (Scrum Master)
+Saad Shah
+Jaya Thirugnanasampanthan
+Seemin Syed
+Dineshan Pathmanathan
+
+Notes:
+Kemar:
+What did I do yesterday?
+Used list view to draw the events of an itinerary.
+What will I do today?
+Getting an itinerary to save. This means that when the
+user confirms the itinerary, I save the itinerary and
+show it on the main screen of the app, the landing
+page.
+What problems are preventing me from making progress?
+I'm not sure how to get previous data from other pages
+in an android application.
+
+Sakina:
+What did I do yesterday?
+Finished working on front end validation.
+What did I do today?
+Begin looking at back end code for bug fixes.
+What problems are preventing me from making progress?
+None so far.
+
+Saad:
+What did I do yesterday?
+Continue to go through the front end and research Flutter
+What will I do today?
+Began work on the change event feature
+What problems are preventing me from making progress?
+None
+
+
+Jaya:
+What did I do yesterday?
+Tested backend work to identify bugs.
+What will I do today?
+Write documentation for others who will work on FE this sprint (PLANN-92).
+What problems are preventing me from making progress?
+I'm still struggling to understand Flutter, so I will need to review documentation and get help from others to accurately write documentation.
+
+Dineshan:
+What did I do yesterday?
+Finished reading up on Flutter/Dart as well as the front end code.
+What did I do today?
+Begin working on the front end components for event details.
+What problems are preventing me from making progress?
+Struggling slightly with the structure of Flutter-based code.
+
+Seemin:
+What did I do yesterday?
+Design and create Event objects for Back End.
+What will I do today?
+Find and use the foursquare API to get a list of events according to certain criteria.
+What problems are preventing me from making progress?
+Lack of information about what can and cannot be used.

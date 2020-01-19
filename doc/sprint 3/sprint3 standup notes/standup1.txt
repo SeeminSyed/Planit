@@ -1,0 +1,59 @@
+Date and Time: November 6, 2019 at 5 pm
+
+Participants: 
+Kemar Harris
+Sakina Gadriwala (Scrum Master)
+Saad Shah
+Jaya Thirugnanasampanthan
+Seemin Syed
+Dineshan Pathmanathan
+
+Notes:
+Kemar:
+What did I do yesterday?
+Nothing.
+What will I do today?
+Comment code written in the previous sprint.
+What problems are preventing me from making progress?
+Nothing. Maybe javadoc, but it's a quick Google search.
+
+Sakina:
+What did I do yesterday?
+Nothing.
+What did I do today?
+Read up on how to preserve values between pages
+What problems are preventing me from making progress?
+None so far.
+
+Saad:
+What did I do yesterday?
+Nothing.
+What will I do today?
+Begin researching Flutter.
+What problems are preventing me from making progress?
+Lack of experience with Flutter.
+
+
+Jaya:
+What did I do yesterday?
+Nothing.
+What will I do today?
+Research PostgreSQL.
+What problems are preventing me from making progress?
+Lack of experience with PostgreSQL.
+
+Seemin:
+What did I do yesterday?
+Nothing.
+What will I do today?
+Research how to get event details.
+What problems are preventing me from making progress?
+Lack of experience with APIs.
+
+Dineshan:
+What did I do yesterday?
+Nothing.
+What did I do today?
+Refactor the code that was worked on during sprint 2.
+What problems are preventing me from making progress?
+None so far.

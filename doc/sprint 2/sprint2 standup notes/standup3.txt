@@ -1,0 +1,60 @@
+Date and Time: October 24, 2019 at 10 am
+
+Participants: 
+Kemar Harris
+Sakina Gadriwala (Scrum Master)
+Saad Shah
+Jaya Thirugnanasampanthan
+Seemin Syed
+Dineshan Pathmanathan
+
+Notes:
+Kemar:
+What did I do yesterday?
+Tried to find a suitable DB for project but failed (PLANN-60)
+What will I do today?
+Try to get Tianze to setup DB
+What problems are preventing me from making progress?
+I had to ask Kevin and Professor Dema for suggestions on DB. 
+Professor Dema suggested that we get in touch with Tianze Sun to setup a PostgreSQL database for us so that we can use it in our project.
+Once Tianze does this, I will be able to create the tables. 
+
+Sakina:
+What did I do yesterday?
+Researched the Flutter widgets and how to set up the project on Android Studio (PLANN-79, PLANN-81).
+What will I do today?
+Set up frontend project on Github. 
+What problems are preventing me from making progress?
+I still don't know how to set up the Flutter project on Android Studio, and so I can't teach Jaya and Seemin.
+
+Saad:
+What did I do yesterday?
+N/A
+What will I do today?
+N/A
+What problems are preventing me from making progress?
+Kemar is struggling with DB work, so I can't write the code to hook up to the DB.
+
+Jaya:
+What did I do yesterday?
+Researched into how to implement chosen widgets.
+What will I do today?
+Try to figure out how to set up Flutter project on Android Studio. 
+What problems are preventing me from making progress?
+Sakina can't create the new project on the master, so we can't branch off and start our work. 
+
+Seemin:
+What did I do yesterday?
+Finalized the widgets for location, budget, and date-time GUI (PLANN-PLANN-77, PLANN-PLANN-78).
+What will I do today?
+Try to figure out how to set up Flutter project on Android Studio. 
+What problems are preventing me from making progress?
+Sakina can't create the new project on the master, so we can't branch off and start our work.
+
+Dineshan:
+What did I do yesterday?
+N/A
+What will I do today?
+N/A
+What problems are preventing me from making progress?
+Kemar hasn't set up the DB, so I need to wait before coding.

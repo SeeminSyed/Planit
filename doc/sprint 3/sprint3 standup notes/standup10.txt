@@ -1,0 +1,58 @@
+Date and Time: November 18, 2019 at 8pm
+
+Participants: 
+Kemar Harris
+Sakina Gadriwala (Scrum Master)
+Saad Shah
+Jaya Thirugnanasampanthan
+Seemin Syed
+Dineshan Pathmanathan
+
+Notes:
+Kemar:
+What did I do yesterday?
+Write the service for an itinerary.
+What will I do today?
+Testing.
+What problems are preventing me from making progress?
+Nothing.
+
+Sakina:
+What did I do yesterday?
+Finished up the APIs necessary for searching/changing events.
+What did I do today?
+Assisting other front end developers if they came across roadblocks.
+What problems are preventing me from making progress?
+None so far.
+
+Saad:
+What did I do yesterday?
+begin the Search for an event feature
+What will I do today?
+Finish up the search for an event feature and test both of them
+What problems are preventing me from making progress?
+None
+
+Jaya:
+What did I do yesterday?
+Wrote APIs.
+What will I do today?
+Finish up APIs.
+What problems are preventing me from making progress?
+Changing requirements between FE & BE teams and missed out on conversations.
+
+Dineshan:
+What did I do yesterday?
+Nearly finished event details page and looked up Google Maps API.
+What did I do today?
+Finish implementing the event details page and add the API's required packages.
+What problems are preventing me from making progress?
+The Google Maps API has quite a learning curve; it will be fixed later on with some assistance.
+
+Seemin:
+What did I do yesterday?
+Wrote APIs.
+What will I do today?
+Create POST request handler that creates
+What problems are preventing me from making progress?
+The public API has a rate limit that I hit almost immediately so testing is slow/difficult.

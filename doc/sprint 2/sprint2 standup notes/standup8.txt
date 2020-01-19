@@ -1,0 +1,59 @@
+Date and Time: November 2, 2019 at 3 pm
+
+Participants: 
+Kemar Harris
+Sakina Gadriwala (Scrum Master)
+Saad Shah
+Jaya Thirugnanasampanthan
+Seemin Syed
+Dineshan Pathmanathan
+
+Notes:
+Kemar:
+What did I do yesterday?
+Created tables in the DB after learning how to access DB from Professor Dema and Tianze. 
+Populated country and city tables from API.
+What will I do today?
+Get around to creating a DAO object through which the APIs can retrieve and update data. Also, work on location endpoint.
+What problems are preventing me from making progress?
+I had the inital hurdle of learning how to access the DB, but now that I know how to, I think things should be okay.
+
+Sakina:
+What did I do yesterday?
+Set up Flutter project on Github.
+What will I do today?
+Work on the attractions GUI and consume the attractions API.
+What problems are preventing me from making progress?
+N/A
+
+Saad:
+What did I do yesterday?
+N/A
+What will I do today?
+Work on the attractions API, transportation API, and configure itinerary endpoint stuff. Haven't committed since I am facing minor issues, but I'm almost done addressing them.
+What problems are preventing me from making progress?
+N/A
+
+Jaya:
+What did I do yesterday?
+Played around with Flutter to get a sense of FE.
+What will I do today?
+Work on distance GUI.
+What problems are preventing me from making progress?
+The distance GUI is straightforward so I should be able to commit work tonight or tomorrow.
+
+Seemin:
+What did I do yesterday?
+Played around with Flutter to get a sense of FE.
+What will I do today?
+Work on date and time GUI.
+What problems are preventing me from making progress?
+N/A
+
+Dineshan:
+What did I do yesterday?
+N/A
+What will I do today?
+Work on user registration and ratings endpoint stuff. Will push once work is fully tested.
+What problems are preventing me from making progress?
+Have Git issues so I can't push my work to my branch, but Kemar is helping me out with this.
