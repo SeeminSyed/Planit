@@ -29,6 +29,9 @@ class ChangeEvent extends StatelessWidget {
           //print('project snapshot data is: ${projectSnap.data}');
           return Container();
         }
+        if (event == null) {
+          return Center(child: Container( child: CircularProgressIndicator() ));
+        }
          return Scaffold(
           appBar: AppBar(
           automaticallyImplyLeading: false,

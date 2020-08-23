@@ -118,6 +118,7 @@ List<String> createTimingList(List<dynamic> eventsAndTimings) {
   
   for (int i = 0; i < eventsAndTimings.length; i++) {
     String time = eventsAndTimings[i]["eventStartTime"];
+    /*
     String timeOfDay = "AM";
     int hour = int.parse(time.substring(0,2));
 
@@ -128,8 +129,8 @@ List<String> createTimingList(List<dynamic> eventsAndTimings) {
       }
     } else if (hour == 0) {
       hour = 12;
-    }
-    timings.add(hour.toString() +":" + time.substring(2,4) + " " + timeOfDay);
+    }*/
+    timings.add(time);// hour.toString() +":" + time.substring(2,4) + " " + timeOfDay);
     
   }
   return timings;
@@ -151,7 +152,7 @@ Map<String, dynamic> itineraryToJson(String userId, Itinerary itinerary) {
     Map<String, dynamic> event = new Map<String, dynamic>();
     event["eventId"] = events[i].getId();
     event["name"] = events[i].getName();
-    event["address"] = events[i].getAdress();
+    event["address"] = events[i].getAddress();
     event["averageRating"] = events[i].getAverageRating();
     event["details"] = events[i].getDetails();
     event["contact"] = events[i].getContactInfo();

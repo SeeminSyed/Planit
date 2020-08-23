@@ -4,7 +4,7 @@ abstract class Event {
 
   String getName();
 
-  String getAdress();
+  String getAddress();
 
   double getAverageRating();
 

@@ -43,14 +43,17 @@ class LandingPageState extends State<LandingPage> {
   List<ItineraryInfo> prevIteraries;
   bool firstBuild = true;
 
-  @override
-  Widget build(BuildContext context) {
-    if (firstBuild) {
-      getLastItinerary();
+  void refresh() {
+    if (true) {
+      if (firstBuild) getLastItinerary();
       firstBuild = false;
       setPreviousItineraries();
     }
+  }
 
+  @override
+  Widget build(BuildContext context) {
+    refresh();
     return new Scaffold(
         body: drawBody(),
         floatingActionButton: Row(
@@ -138,6 +141,7 @@ class LandingPageState extends State<LandingPage> {
       setState(() {
         itineraryComponent = result;
         print("itineraryComponent is $itineraryComponent");
+        refresh();
       });
     }
   }

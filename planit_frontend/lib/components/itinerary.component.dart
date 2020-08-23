@@ -51,7 +51,10 @@ class ItineraryComponentState extends State<ItineraryComponent>
             child: Center(
                 child:
                     ListTile(
-                      leading:  Container( 
+                      leading:  Container(
+                        alignment: Alignment.center,
+                        margin: EdgeInsets.symmetric(),
+
                         width: 80,
                         child: 
                           Text(
@@ -61,7 +64,7 @@ class ItineraryComponentState extends State<ItineraryComponent>
                             )
                           ),
                       title : Text (events[index].getName()),
-                      subtitle: Text(events[index].getAdress() + "\n~\$" + events[index].getCost().toString()),
+                      subtitle: Text(events[index].getAddress()),
                     onTap: () async {
                       Event event = events[index];
                       Event detailedEvent = await getEventFromId(events[index].getId());

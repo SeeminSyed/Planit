@@ -29,7 +29,7 @@ class EventImpl implements Event{
     return name;
   }
 
-  String getAdress() {
+  String getAddress() {
     return address;
   }
 

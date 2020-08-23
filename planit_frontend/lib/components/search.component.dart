@@ -35,7 +35,7 @@ class SearchComponentState extends State<SearchComponent>
               padding: EdgeInsets.all(8),
               child: ListTile(
                 title : Text (event.getName()),
-                subtitle: Text(event.getAdress())
+                subtitle: Text(event.getAddress())
               )
             ),
             Divider(thickness: 1, color: Colors.black),

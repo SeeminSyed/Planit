@@ -84,7 +84,7 @@ class ItineraryImpl implements Itinerary{
 
   @override
   void replaceEvent(Event oldEvent, Event newEvent) {
-    events[events.indexOf(oldEvent)] = newEvent; 
+    events[events.indexWhere((x) => x.getId() == oldEvent.getId())] = newEvent;
   }
 
   

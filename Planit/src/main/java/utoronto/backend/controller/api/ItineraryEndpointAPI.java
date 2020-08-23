@@ -205,6 +205,7 @@ public class ItineraryEndpointAPI implements HttpHandler {
 					Double cost = event.getDouble("cost");
 					String category = event.getString("category");
 					insertDAO.insertEvent(eventId, name, address, averageRating, details, contact, cost, category);
+//					System.out.print();
 					insertDAO.insertItineraryEvents(itinerary_id, eventId, eventStartTime, eventEndTime, totalTime);
 					i+= 1;
 				}

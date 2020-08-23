@@ -12,7 +12,7 @@ Future<List<EventInfo>> getEvents(String query, Event event) async {
       "query": query, 
       "section": event.getCategory(),
       "price": (event.getCost() ~/ 10).toString(),
-      "near": event.getAdress()
+      "near": event.getAddress()
   };
 
   Uri uri = Uri.parse(Global.url+'/v1/Search');

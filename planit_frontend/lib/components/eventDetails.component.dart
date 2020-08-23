@@ -34,7 +34,7 @@ class EventDetailsScreen extends StatelessWidget {
       position: location,
       infoWindow: InfoWindow(
         title: event.getName(),
-        snippet: event.getAdress(),
+        snippet: event.getAddress(),
       ),
       icon: BitmapDescriptor.defaultMarker,
     ));
@@ -70,7 +70,7 @@ class EventDetailsScreen extends StatelessWidget {
             return Text("Name: " + event.getName().toString() + "\n",
                 textAlign: TextAlign.left);
           } else if (index == 1) {
-            return Text("Address: " + event.getAdress() + "\n",
+            return Text("Address: " + event.getAddress() + "\n",
                 textAlign: TextAlign.left);
           } else if (index == 2) {
             return SmoothStarRating(
